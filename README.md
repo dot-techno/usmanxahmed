@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Usman Ahmed
 - 👀 I’m interested in python, web development and data science.
-- 🌱 I’m currently mastering python.
+- 🌱 I’m currently developing projects using svelte/sveltekit, typescript, python and nodejs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
